@@ -1,0 +1,11 @@
+pennyward.com.au.,3600,IN,SOA,ns1.partnerconsole.net.,hostmaster.partnerconsole.net.,2017031417,86400,7200,3600000,172800
+,30,IN,NS,emma.ns.cloudflare.com.
+,30,IN,NS,kip.ns.cloudflare.com.
+,3600,IN,MX,10,mx.partnerconsole.net.
+,3600,IN,MX,20,mx4.partnerconsole.net.
+pop3,3600,IN,CNAME,pop3.partnerconsole.net.
+webmail,3600,IN,CNAME,webmail.partnerconsole.net.
+imap,3600,IN,CNAME,imap.partnerconsole.net.
+smtp,3600,IN,CNAME,smtp.partnerconsole.net.
+pop,3600,IN,CNAME,pop3.partnerconsole.net.
+oxdzpl2vhl7x,3600,IN,CNAME,gv-g4v4vjlsmc5pif.dv.googlehosted.com.
